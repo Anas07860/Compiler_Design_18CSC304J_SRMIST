@@ -1,5 +1,0 @@
-S->ABCD
-A->a|e
-B->CD|b
-C->c|e
-D->Aa|d
